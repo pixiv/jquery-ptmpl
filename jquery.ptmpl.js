@@ -1,5 +1,5 @@
 /*!
- * jQuery Pluggable Templates Plugin 1.0.3
+ * jQuery Pluggable Templates Plugin 1.0.4
  * http://github.com/atsumu/jquery-ptmpl
  * Requires jQuery 1.4.2
  *
